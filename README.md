@@ -1,3 +1,11 @@
+## Final Project for Code Platoon
+Coviser: The Covid-19 Travel Advisor
+
+I worked on the APIs and data for the site, the line charts and info for the map. 
+
+
+
+
 ## Django API
 Backend command to start API:
 ```console
