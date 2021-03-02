@@ -1,5 +1,5 @@
-## Final Project for Code Platoon
-Coviser: The Covid-19 Travel Advisor
+## Coviser: The Covid-19 Travel Advisor
+Final Project for Code Platoon
 
 I worked on the APIs and data for the site, the line charts and info for the map. 
 
