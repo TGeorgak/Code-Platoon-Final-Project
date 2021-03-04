@@ -3,6 +3,7 @@ Final Project for Code Platoon
 
 I worked on the APIs and data for the site, the line charts and info for the map. 
 
+As of March 7th, the API will no longer be updated so there may be some missing information. 
 
 
 
